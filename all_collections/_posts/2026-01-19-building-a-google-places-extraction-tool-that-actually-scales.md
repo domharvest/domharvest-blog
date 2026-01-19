@@ -200,3 +200,5 @@ It is:
 - Running locally, with your own API key
 
 Everything else is implementation detail.
+
+I later turned this into a local tool: t.co/nQErTYs5tY
